@@ -1,0 +1,13 @@
+{
+  "name": "dota2lobby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/glensargent/dota2lobby.git",
+  "author": "Glen Sargent <glensarg@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "dota2": "^6.2.0",
+    "protobufjs": "5.0.1",
+    "steam": "^1.4.1"
+  }
+}
